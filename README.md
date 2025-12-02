@@ -24,9 +24,13 @@ I'm currently working on partioning one of the SSDs in my personal PC to set up 
 
   - All things LInux! I’ve been having a lot of fun learning and experimenting lately, and I’m always open to tips, tricks, or advice from users with more experience.
 
-<b>📫 How to reach me: ...</b>
+<b>🎨 Creative Work...</b>
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/charles-l-johnson-iii/)
+  - I've been getting into 3D modeling and rendering in Blender lately. I'm still new to it, but it's quicly become something I really enjoy working on in my free time.
+
+<b>📫 How to reach me...</b>
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/charles-l-johnson-iii/) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/Sijaey3DWorks)
 
 
 
