@@ -1,5 +1,5 @@
 ---
----
+
 <h1>Hi there 👋</h1>
 
 
@@ -21,7 +21,6 @@ I'm currently working on partioning one of the SSDs in my personal PC to set up 
   - Set up Azure AD Connect for hybrid Azure AD join and seamless SSO using password hash sync.
 
 --- 
----
 
 <b>🤔 I’m looking for help with...</b>
 
@@ -35,7 +34,6 @@ I'm currently working on partioning one of the SSDs in my personal PC to set up 
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/charles-l-johnson-iii/) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/Sijaey3DWorks)
 
----
 ---
 
 <!--
