@@ -28,7 +28,7 @@ I'm currently working on partioning one of the SSDs in my personal PC to set up 
 
 <b>🎨 Creative Work...</b>
 
-  - I've been getting into 3D modeling and rendering in Blender lately. I'm still new to it, but it's quicly become something I really enjoy working on in my free time.
+  - I've been getting into 3D modeling and rendering in Blender lately. I'm still new to it, but it's quickly become something I really enjoy working on in my free time.
 
 <b>🤳 Connect with me...</b>
 
