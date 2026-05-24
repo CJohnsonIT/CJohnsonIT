@@ -1,6 +1,6 @@
 ---
 
-<h1>Hi there 👋</h1>
+<h1>Hi there </h1>
 
 
 My name is Charles, and I have a passion for all things IT.
@@ -31,7 +31,7 @@ Recently I've decided to work on my CCNA. My interest in networking has grown qu
 
   - All things LInux! I’ve been having a lot of fun learning and experimenting lately, and I’m always open to tips, tricks, or advice from users with more experience.
 
-<b>🎨 Creative Work...</b>
+<b> Creative Work...</b>
 
   - I've been getting into 3D modeling and rendering in Blender lately. I'm still new to it, but it's quickly become something I really enjoy working on in my free time.
 
