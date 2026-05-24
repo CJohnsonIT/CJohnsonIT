@@ -10,16 +10,21 @@ I enjoy building and experimenting with projects to further my understanding, an
 
 <h2>🔭 Current Project</h2>
 I'm currently working on partioning one of the SSDs in my personal PC to set up a dual boot environment with Linux. My goal is to get a better understanding with Linux system administration, experiement with different distros, and strengthen my comfort with the command line and system config.
+Recently I've decided to work on my CCNA. My interest in networking has grown quite a bit over the last couple months which has helped with my decision in starting my journey with the certification. I've only just started so I have a long journey ahead of me. 
 
 <h2>📂 Projects / Labs</h2>
 
-<b>Windows Server 2022 Virtual Lab</b>
+<b>Windows Server 2022 {Virtual Lab Environment}</b>
  
   - Installed and configured VirtualBox with Windows Server 2022 & Windows 10/11 client machines in a test domain. 
   - Added Windows 10 client machines to the domain and created/modified Active Directory user accounts.
   - Configured server settings, TCP/IP, Remote Desktop, and Group Policy Objects (GPOs). 
   - Set up Azure AD Connect for hybrid Azure AD join and seamless SSO using password hash sync.
 
+<b>Cisco Newtorking {Virtual Lab Environment}<b>
+
+  - Built and troubleshot small network topoligies using Cisco Packet Tracer
+  - Practiced IP addressing, connectivity testing, and basic network troubleshooting. 
 --- 
 
 <b>🤔 I’m looking for help with...</b>
