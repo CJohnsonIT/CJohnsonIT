@@ -27,7 +27,7 @@ Recently I've decided to work on my CCNA. My interest in networking has grown qu
   - Practiced IP addressing, connectivity testing, and basic network troubleshooting. 
 --- 
 
-<b>🤔 I’m looking for help with...</b>
+<b> I’m looking for help with...</b>
 
   - All things LInux! I’ve been having a lot of fun learning and experimenting lately, and I’m always open to tips, tricks, or advice from users with more experience.
 
@@ -35,7 +35,7 @@ Recently I've decided to work on my CCNA. My interest in networking has grown qu
 
   - I've been getting into 3D modeling and rendering in Blender lately. I'm still new to it, but it's quickly become something I really enjoy working on in my free time.
 
-<b>🤳 Connect with me...</b>
+<b> Connect with me...</b>
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/charles-l-johnson-iii/) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/Sijaey3DWorks)
 
