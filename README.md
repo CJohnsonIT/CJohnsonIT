@@ -23,8 +23,12 @@ My long-term goal is to work in cloud networking, with a strong networking found
 
 ## Projects
 
-### Cisco Packet Tracer Labs
+### [Cisco Packet Tracer Labs](https://github.com/CJohnsonIT/ccna-packet-tracer-labs)
+
 A growing collection of networking labs covering IPv4 addressing, subnetting, switching, routing, VLANs, trunking, and troubleshooting.
+
+**Completed:** [Lab 01 - Basic LAN Connectivity](https://github.com/CJohnsonIT/ccna-packet-tracer-labs/tree/main/01-basic-lan)
+
 
 ### Windows Server & Active Directory Lab
 Windows Server lab covering Active Directory, users and groups, permissions, domain joins, Group Policy, TCP/IP, and virtualization.
