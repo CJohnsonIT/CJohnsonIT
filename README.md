@@ -31,9 +31,15 @@ A growing collection of networking labs covering IPv4 addressing, subnetting, sw
 
 
 ### Windows Server & Active Directory Lab
+
+**Documentation in progress**
+
 Windows Server lab covering Active Directory, users and groups, permissions, domain joins, Group Policy, TCP/IP, and virtualization.
 
 ### Linux Networking Labs
+
+**Planned**
+
 Linux practice focused on command-line administration, networking, services, permissions, SSH, and troubleshooting.
 
 ## Roadmap
